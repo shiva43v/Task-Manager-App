@@ -69,7 +69,14 @@ The app will be running at **http://localhost:5173**
   "email": "jane@example.com",
   "password": "yourpassword"
 }
+
+
 ```
+
+<img width="1895" height="824" alt="Screenshot 2026-06-01 130308" src="https://github.com/user-attachments/assets/dd7ea766-8738-4802-8ac8-69f6bb75358e" />
+<img width="1892" height="862" alt="Screenshot 2026-06-01 130348" src="https://github.com/user-attachments/assets/22c57145-002e-4c44-8d87-e10705438811" />
+
+
 ---
 
 
