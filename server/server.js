@@ -16,6 +16,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
+      "https://task-manager-app-1-qmge.onrender.com"
     ],
     credentials: true,
   })
